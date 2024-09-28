@@ -30,16 +30,17 @@ sections:
           size: cover
           position: center
           parallax: false
+          
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Work in Progress'
+      id: research
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        *Funding Instruments and Effort Choice in Higher Education, with Juan Pal
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        *Post-Secondary Education and Skills in the Labour Market, with François Poinas
+
     design:
       columns: '1'
   - block: collection
