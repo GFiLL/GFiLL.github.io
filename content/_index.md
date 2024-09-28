@@ -30,7 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
-          
+
+  # Work in Progress      
   - block: markdown
     content:
       title: '📚 Work in Progress'
@@ -43,8 +44,11 @@ sections:
 
     design:
       columns: '1'
+
+   # Publications (remoce demo: true to display) 
   - block: collection
     id: papers
+    demo: true
     content:
       title: Featured Publications
       filters:
@@ -64,8 +68,11 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  # Talks (remoce demo: true to display) 
   - block: collection
     id: talks
+    demo: true
     content:
       title: Recent & Upcoming Talks
       filters:
@@ -74,8 +81,11 @@ sections:
     design:
       view: article-grid
       columns: 1
+
+  # News
   - block: collection
     id: news
+    demo: true
     content:
       title: Recent News
       subtitle: ''
