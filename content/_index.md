@@ -36,16 +36,33 @@ sections:
   - block: markdown
     id: research
     content:
-      title: '📚 Work in Progress'
+      title: 'Work in Progress'
       subtitle: ''
       text: |-
 
-        _Funding Instrument and Effort Choices in Higher Education_, with Juan Pal
+       - _Funding Instrument and Effort Choices in Higher Education_, with Juan Pal
 
-        _Post-secondary education and skills in the labor market_, with François Poinas
+       - _Post-secondary education and skills in the labor market_, with François Poinas
 
     design:
       columns: '1'
+
+
+  - block: markdown
+    id: teaching
+    content:
+      title: '📚 Teaching'
+      subtitle: ''
+      text: |-
+
+       - 2021/2022: Macroeconomics II (undergraduate)
+       - 2022/2023: Program Evaluation (graduate); Macroeconomics II (undergraduate)
+       - 2023/2024: Program Evaluation, Applied Econometrics (graduate); Microeconomics I (undergraduate)
+       - 2024/2025: Program Evaluation (graduate)
+
+    design:
+      columns: '1'
+
 
 
   # - block: collection
