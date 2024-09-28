@@ -51,7 +51,7 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: '📚 Teaching'
+      title: 'Teaching'
       subtitle: ''
       text: |-
 

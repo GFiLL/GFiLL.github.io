@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: <i class="fa-solid fa-envelope"></i>
+  - icon: Capa_1
     url: 'mailto:guillem.foucault@tse-fr.eu'
     label: E-mail Me
   # - icon: brands/x
