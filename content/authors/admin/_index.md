@@ -3,7 +3,7 @@
 title: Guillem Foucault
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Guillem
@@ -24,8 +24,8 @@ role: PhD Candidate in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Toulouse School of Economics
+    url: https://www.tse-fr.eu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-I am a PhD candidate at the Toulouse School of economics. My work covers topics related to education and labor economics. In particular, I am interested in how funding instruments and educational tracks affect students decisions and labor market outcomes. You can find my CV here and contact me at guillem.foucault[at]tse[slash]fr[dot]com. 
+I am a PhD candidate at the Toulouse School of economics. My work covers topics related to education and labour economics. In particular, I am interested in how funding instruments and educational tracks affect students decisions and labour market outcomes. You can contact me at guillem.foucault[at]tse[slash]fr[dot]com. 
