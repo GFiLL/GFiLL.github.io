@@ -15,7 +15,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Guillem Foucault i Llopart academic websiste. Guillem is a PhD candidate in the academic job market 2025-2026'
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
       filename: ""
     # Shop a call-to-action button in the top right?
     button:
-      enable: true
+      enable: false
       text: "Get Started"
       url: "https://hugoblox.com/templates/"
     # Let the user choose between light or dark mode?
@@ -60,7 +60,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me.'
+    notice: '© {year}, Guillem Foucault i Llopart.'
     license:
       enable: true
       allow_derivatives: false
