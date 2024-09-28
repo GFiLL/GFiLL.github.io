@@ -46,10 +46,9 @@ sections:
     design:
       columns: '1'
 
-   # Publications (remoce demo: true to display) 
+
   - block: collection
     id: papers
-    demo: true
     content:
       title: Featured Publications
       filters:
@@ -70,10 +69,9 @@ sections:
     design:
       view: citation
 
-  # Talks (remoce demo: true to display) 
+
   - block: collection
     id: talks
-    demo: true
     content:
       title: Recent & Upcoming Talks
       filters:
@@ -83,10 +81,9 @@ sections:
       view: article-grid
       columns: 1
 
-  # News
+
   - block: collection
     id: news
-    demo: true
     content:
       title: Recent News
       subtitle: ''
@@ -114,6 +111,8 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
+        
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
