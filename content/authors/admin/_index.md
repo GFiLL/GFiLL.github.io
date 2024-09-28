@@ -49,10 +49,9 @@ profiles:
 interests:
   - Labour Economics
   - Education Economics
-  - Microeconometrics
 
 education:
-  - area: MSc in Economics
+  - area: MSc in Economics, 2021
     institution: Toulouse School of Economics
     date_start: 2019-08-01
     date_end: 2021-06-30
@@ -61,7 +60,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc in Economics
+  - area: BSc in Economics, 2017
     institution: Universitat Pompeu Fabra
     date_start: 2013-09-01
     date_end: 2017-06-30
@@ -72,17 +71,17 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
