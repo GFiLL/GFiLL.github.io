@@ -36,11 +36,11 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
-imaging:
+image:
   resampleFilter: lanczos
   quality: 80
   anchor: smart
-timeout: 600000
+timeout: "600s"
 taxonomies:
   author: authors
   tag: tags
