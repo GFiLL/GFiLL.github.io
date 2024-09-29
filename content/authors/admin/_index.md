@@ -30,8 +30,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: envelope
-    icon_pack: fas
+  - icon: envelope.svg
+  #  icon_pack: fas
     url: 'mailto:guillem.foucault@tse-fr.eu'
     label: E-mail Me
   # - icon: brands/x
