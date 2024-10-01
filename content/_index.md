@@ -41,7 +41,7 @@ sections:
       text: |-
 
        - _Funding Instrument and Effort Choices in Higher Education_, with Juan Pal
-       [[Slides](effort.pdf)]
+       [[Slides](../static/uploads/effort.pdf)]
 
        - _Post-secondary education and skills in the labor market_, with François Poinas
 
