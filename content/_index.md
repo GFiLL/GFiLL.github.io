@@ -56,10 +56,8 @@ sections:
       subtitle: ''
       text: |-
 
-       - 2021/2022: Macroeconomics II (undergraduate)
-       - 2022/2023: Program Evaluation (graduate); Macroeconomics II (undergraduate)
-       - 2023/2024: Program Evaluation, Applied Econometrics (graduate); Microeconomics I (undergraduate)
-       - 2024/2025: Program Evaluation (graduate)
+       - Undergraduate: Microeconomics I, Macroeconomics II 
+       - Graduate: Applied Econometrics, Program Evaluation
 
     design:
       columns: '1'
